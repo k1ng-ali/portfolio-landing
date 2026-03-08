@@ -1,0 +1,9 @@
+{
+  "email": "mgshakhzod@gmail.com",
+  "telegram": "Shakhzod_oo3",
+  "socials": [
+    { "label": "GitHub",    "href": "https://github.com/MgShakhzod",                 "icon": "⫱" },
+    { "label": "Telegram",  "href": "https://t.me/Shakhzod_oo3",                         "icon": "✈" },
+    { "label": "Instagram", "href": "https://www.instagram.com/Shakhzod_oo3/",     "icon": "▢" }
+  ]
+}
